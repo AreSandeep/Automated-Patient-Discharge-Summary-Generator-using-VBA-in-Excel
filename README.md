@@ -1,0 +1,1 @@
+This project automates the creation of formatted discharge summaries from a structured Excel sheet containing patient records — including admission details, diagnosis, treatment, and discharge notes. VBA dynamically creates a printable, individualized summary for each patient.
